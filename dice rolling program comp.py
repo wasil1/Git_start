@@ -1,7 +1,7 @@
 leaveprogram= 0 
 while leaveprogram != "q":   
  import random
- print("This is a dice rolling program")
+ print("This is a nice dice rolling program")
  print(" plz Press  enter to roll")
  input()
  number= random.randint(1,6)
